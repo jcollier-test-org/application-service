@@ -12,7 +12,7 @@ RUN go mod download
 RUN CGO_ENABLED=0 GOOS=linux go build -a -o cdq-analysis main.go
 
 
-FROM registry.access.redhat.com/ubi8/ubi-minimal:8.6-751
+FROM registry.access.redhat.com/ubi8/ubi-minimal:8.10-1052.1724178568
 RUN microdnf update --setopt=install_weak_deps=0 -y && microdnf install git
 
 # Set up the non-root workspace and copy over the gitops generator binary and entrypoint script
