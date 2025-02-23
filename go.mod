@@ -1,9 +1,11 @@
 module github.com/redhat-appstudio/application-service
 
-go 1.19
+go 1.21
+
+toolchain go1.22.9
 
 require (
-	github.com/brianvoe/gofakeit/v6 v6.9.0
+	github.com/brianvoe/gofakeit/v6 v6.28.0
 	github.com/devfile/api/v2 v2.2.1
 	github.com/devfile/library/v2 v2.2.2-0.20231206202302-705f00dd96f5
 	github.com/go-logr/logr v1.2.4
