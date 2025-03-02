@@ -28,7 +28,7 @@ import (
 	cdqanalysis "github.com/redhat-appstudio/application-service/cdq-analysis/pkg"
 	"github.com/redhat-appstudio/application-service/pkg/metrics"
 
-	gofakeit "github.com/brianvoe/gofakeit/v6"
+	gofakeit "github.com/brianvoe/gofakeit/v7"
 	"github.com/go-logr/logr"
 
 	k8sErrors "k8s.io/apimachinery/pkg/api/errors"
