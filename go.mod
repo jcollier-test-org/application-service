@@ -1,6 +1,8 @@
 module github.com/redhat-appstudio/application-service
 
-go 1.19
+go 1.22.0
+
+toolchain go1.22.9
 
 require (
 	github.com/brianvoe/gofakeit/v6 v6.9.0
@@ -9,7 +11,7 @@ require (
 	github.com/go-logr/logr v1.2.4
 	github.com/gofri/go-github-ratelimit v1.0.3-0.20230428184158-a500e14de53f
 	github.com/golang/mock v1.6.0
-	github.com/google/go-github/v52 v52.0.1-0.20230514113659-60429b4ba0ba
+	github.com/google/go-github/v69 v69.2.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/migueleliasweb/go-github-mock v0.0.19
 	github.com/mitchellh/go-homedir v1.1.0
@@ -86,7 +88,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/btree v1.0.1 // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/go-github/v53 v53.0.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
