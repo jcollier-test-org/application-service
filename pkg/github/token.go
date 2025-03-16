@@ -27,7 +27,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/redhat-appstudio/application-service/pkg/metrics"
 
-	"github.com/gofri/go-github-ratelimit/github_ratelimit"
+	"github.com/gofri/go-github-ratelimit/v2/github_ratelimit"
 	"github.com/google/go-github/v52/github"
 	"golang.org/x/oauth2"
 
