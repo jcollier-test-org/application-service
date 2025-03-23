@@ -22,7 +22,7 @@ import (
 
 	"github.com/devfile/library/v2/pkg/devfile/parser"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/testutil"

@@ -23,7 +23,7 @@ import (
 	"github.com/devfile/library/v2/pkg/devfile/parser"
 	"github.com/prometheus/client_golang/prometheus/testutil"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 	appstudiov1alpha1 "github.com/redhat-appstudio/application-api/api/v1alpha1"
 	cdqanalysis "github.com/redhat-appstudio/application-service/cdq-analysis/pkg"

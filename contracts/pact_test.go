@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 	provider "github.com/pact-foundation/pact-go/v2/provider"
 	"github.com/redhat-appstudio/application-service/controllers"

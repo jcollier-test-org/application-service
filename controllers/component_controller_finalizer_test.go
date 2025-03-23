@@ -25,7 +25,7 @@ import (
 
 	"github.com/devfile/library/v2/pkg/devfile/parser"
 
-	. "github.com/onsi/ginkgo"
+	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 	"sigs.k8s.io/yaml"
 

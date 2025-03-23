@@ -25,7 +25,7 @@ import (
 
 	"github.com/redhat-appstudio/application-service/gitops"
 
-	ginkgo "github.com/onsi/ginkgo"
+	ginkgo "github.com/onsi/ginkgo/v2"
 	gomega "github.com/onsi/gomega"
 	"k8s.io/client-go/kubernetes/scheme"
 
