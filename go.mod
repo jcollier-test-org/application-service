@@ -59,7 +59,7 @@ require (
 	github.com/devfile/alizer v1.2.2-0.20231004141146-f36141673c7f // indirect
 	github.com/devfile/registry-support/index/generator v0.0.0-20221018203505-df96d34d4273 // indirect
 	github.com/devfile/registry-support/registry-library v0.0.0-20221018213054-47b3ffaeadba // indirect
-	github.com/distribution/distribution/v3 v3.0.0-20211118083504-a29a3c99a684 // indirect
+	github.com/distribution/distribution/v3 v3.0.0 // indirect
 	github.com/docker/cli v23.0.0-rc.1+incompatible // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/docker v23.0.0-rc.1+incompatible // indirect

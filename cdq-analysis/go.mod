@@ -34,7 +34,7 @@ require (
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/creack/pty v1.1.17 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/distribution/distribution/v3 v3.0.0-20211118083504-a29a3c99a684 // indirect
+	github.com/distribution/distribution/v3 v3.0.0 // indirect
 	github.com/docker/cli v23.0.0-rc.1+incompatible // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/docker v23.0.0-rc.1+incompatible // indirect
