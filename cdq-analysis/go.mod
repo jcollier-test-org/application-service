@@ -1,6 +1,8 @@
 module github.com/redhat-appstudio/application-service/cdq-analysis
 
-go 1.19
+go 1.23
+
+toolchain go1.23.8
 
 require (
 	github.com/devfile/alizer v1.2.2-0.20231004141146-f36141673c7f
@@ -137,7 +139,7 @@ require (
 	k8s.io/kube-openapi v0.0.0-20221012153701-172d655c2280 // indirect
 	k8s.io/utils v0.0.0-20230505201702-9f6742963106 // indirect
 	oras.land/oras-go v1.1.0 // indirect
-	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
+	sigs.k8s.io/json v0.0.0-20241014173422-cfa47c3a1cc8 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 )
 
