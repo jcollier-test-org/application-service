@@ -1,6 +1,8 @@
 module github.com/redhat-appstudio/application-service/cdq-analysis
 
-go 1.19
+go 1.22
+
+toolchain go1.22.9
 
 require (
 	github.com/devfile/alizer v1.2.2-0.20231004141146-f36141673c7f
@@ -74,7 +76,7 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
-	github.com/klauspost/compress v1.15.12 // indirect
+	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
