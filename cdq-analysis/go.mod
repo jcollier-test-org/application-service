@@ -1,6 +1,8 @@
 module github.com/redhat-appstudio/application-service/cdq-analysis
 
-go 1.19
+go 1.21
+
+toolchain go1.22.9
 
 require (
 	github.com/devfile/alizer v1.2.2-0.20231004141146-f36141673c7f
@@ -62,7 +64,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/btree v1.0.1 // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
