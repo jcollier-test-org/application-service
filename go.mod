@@ -6,7 +6,7 @@ require (
 	github.com/brianvoe/gofakeit/v6 v6.9.0
 	github.com/devfile/api/v2 v2.2.1
 	github.com/devfile/library/v2 v2.2.2-0.20231206202302-705f00dd96f5
-	github.com/go-logr/logr v1.2.4
+	github.com/go-logr/logr v1.4.1
 	github.com/gofri/go-github-ratelimit v1.0.3-0.20230428184158-a500e14de53f
 	github.com/golang/mock v1.6.0
 	github.com/google/go-github/v52 v52.0.1-0.20230514113659-60429b4ba0ba
@@ -179,7 +179,7 @@ require (
 	k8s.io/apiextensions-apiserver v0.26.10 // indirect
 	k8s.io/component-base v0.26.10 // indirect
 	k8s.io/klog v1.0.0 // indirect
-	k8s.io/klog/v2 v2.100.1 // indirect
+	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20230501164219-8b0f38b5fd1f // indirect
 	k8s.io/pod-security-admission v0.26.10 // indirect
 	k8s.io/utils v0.0.0-20230505201702-9f6742963106 // indirect
