@@ -1,6 +1,8 @@
 module github.com/redhat-appstudio/application-service/cdq-analysis
 
-go 1.19
+go 1.22.0
+
+toolchain go1.22.9
 
 require (
 	github.com/devfile/alizer v1.2.2-0.20231004141146-f36141673c7f
@@ -29,7 +31,7 @@ require (
 	github.com/acomagu/bufpipe v1.0.4 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
-	github.com/cloudflare/circl v1.3.3 // indirect
+	github.com/cloudflare/circl v1.6.1 // indirect
 	github.com/containerd/containerd v1.6.20 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/creack/pty v1.1.17 // indirect
