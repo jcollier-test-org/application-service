@@ -16,7 +16,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.27.8
 	github.com/openshift-pipelines/pipelines-as-code v0.0.0-20220622161720-2a6007e17200
-	github.com/openshift/api v0.0.0-20220912161038-458ad9ca9ca5
+	github.com/openshift/api 10a8fa583797
 	github.com/pact-foundation/pact-go/v2 v2.0.0-beta.23
 	github.com/prometheus/client_golang v1.16.0
 	github.com/redhat-appstudio/application-api v0.0.0-20231016183051-2dde965fce17
