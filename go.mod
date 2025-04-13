@@ -33,7 +33,7 @@ require (
 	k8s.io/apimachinery v0.27.7
 	k8s.io/client-go v0.26.10
 	sigs.k8s.io/controller-runtime v0.14.7
-	sigs.k8s.io/yaml v1.3.0
+	sigs.k8s.io/yaml v1.4.0
 )
 
 require (
@@ -186,7 +186,7 @@ require (
 	knative.dev/pkg v0.0.0-20221011175852-714b7630a836 // indirect
 	oras.land/oras-go v1.1.0 // indirect
 	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
-	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
+	sigs.k8s.io/structured-merge-diff/v4 v4.7.0 // indirect
 )
 
 replace github.com/antlr/antlr4 => github.com/antlr/antlr4 v0.0.0-20211106181442-e4c1a74c66bd
