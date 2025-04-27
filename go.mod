@@ -180,7 +180,7 @@ require (
 	k8s.io/component-base v0.26.10 // indirect
 	k8s.io/klog v1.0.0 // indirect
 	k8s.io/klog/v2 v2.100.1 // indirect
-	k8s.io/kube-openapi v0.0.0-20230501164219-8b0f38b5fd1f // indirect
+	k8s.io/kube-openapi c8a335a9a2ff // indirect
 	k8s.io/pod-security-admission v0.26.10 // indirect
 	k8s.io/utils v0.0.0-20230505201702-9f6742963106 // indirect
 	knative.dev/pkg v0.0.0-20221011175852-714b7630a836 // indirect
